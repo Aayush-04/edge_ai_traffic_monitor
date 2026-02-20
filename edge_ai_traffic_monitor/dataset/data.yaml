@@ -1,0 +1,7 @@
+
+
+train: ./dataset/train/images
+val: ./dataset/valid/images
+
+nc: 6
+names: ['2-wheelers', 'auto', 'bus', 'car', 'pedestrian', 'truck']
